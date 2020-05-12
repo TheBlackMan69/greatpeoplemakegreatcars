@@ -1,0 +1,126 @@
+{
+    "recipes": [
+        {
+            "id":1,
+            "title": "Heals",
+            "description": "With just 5 simple ingredients you can make the most delicious stove-top oatmeal recipe on the planet. This oatmeal recipe is a staple in my home and I often add other flavors and add-ins to make it even more delicious. PS: it's refined sugar-free and naturally gluten-free!",
+            "thumb_img": "recipe_1_thumb.png",
+            "full_img": "recipe_1.png",
+            "for_people": 2,
+            "ingredients": [
+                {
+                    "unit": "cup",
+                    "quantity": 1,
+                    "name": "rolled oats"
+                },
+                {
+                    "unit": "cup",
+                    "quantity": 2,
+                    "name": "unsweetened almond milk"
+                },
+                {
+                    "unit": "",
+                    "quantity": 1,
+                    "name": "medium banana, mashed"
+                },
+                {
+                    "unit": "teaspoon",
+                    "quantity": 2,
+                    "name": "vanilla extract"
+                },
+                {
+                    "unit": "teaspoon",
+                    "quantity": 2,
+                    "name": "cinnamon"
+                }
+                ],
+                "instructions":[
+                    {
+                        "description":"Combine all ingredients into a small saucepan and turn heat to medium/high",
+                        "order" : 1
+                    },
+                     {
+                        "description":"Bring to a boil.Then ,turn heat to low/medium and consistency stir for around 3-5 minutes as the oatmeal cooks and thickens",
+                        "order" : 2
+                    },
+                     {
+                        "description":"Once oatmeal is at desired consistency,remove from heat and serve imidantely",
+                        "order" : 3
+                    }
+                    ]},
+         {
+        
+            "id":2,
+            "title": "Bread for everyday",
+            "description": "Odličen, preprost recept za pripravo kruha doma",
+            "full_img": "recipe_1.png",
+            "for_people": 2,
+            "ingredients": [
+                {
+                    "unit": "dag",
+                    "quantity": 75,
+                    "name": "weath"
+                },
+                {
+                    "unit": "gram",
+                    "quantity": 25,
+                    "name": "yeast"
+                },
+                {
+                    "unit": "spoon(s)",
+                    "quantity": 2,
+                    "name": "sugar"
+                },
+                {
+                    "unit": "spoons",
+                    "quantity": 3,
+                    "name": "salt"
+                },
+                {
+                    "unit": "liters",
+                    "quantity": 0.5,
+                    "name": "warm wather"
+                }
+                ],
+                "instructions":[
+                    {
+                        "description":"Mince the yeast in the cup, add a teaspoon of sugar and some lukewarm water",                      
+                        "order" : 1
+                    },
+                     {
+                        "description":"Stir and let the warm yeast rise.",
+                        "order" : 2
+                    },
+                     {
+                        "description":"Mix flour, spoonful of sugar and salt in a bowl. In the middle, make a hole, pour oil and yeast into it, stir a little and add lukewarm water. The exact amount of water depends on the flour itself.",
+                        "order" : 3
+                    },
+                     {
+                        "description":"With the electric mixer, knead the dough until it has an elastic dough that just deviates from the bowl.",
+                        "order" : 4
+                    },
+                     {
+                        "description":"It is then manually kneaded into a loaf and allowed to rise in a rising bowl until it has doubled.",
+                        "order" : 5
+                    },
+                     {
+                        "description":"When it is sufficiently uplifted, shake it on a dampened surface and fold over well again.",                        
+                        "order" : 6
+                    },
+                     {
+                        "description":"I usually design it as a loaf and place it in an elongated model lined with baking paper. Place the model warm so that the dough rises again",
+                        "order" : 7
+                    },
+                     {
+                        "description":"Place the dough in a preheated oven on a medium griddle and bake at 220 degrees for 15 minutes and then at 200 degrees for 20 minutes.",
+                        "order" : 8
+                    },
+                     {
+                        "description":"The baked bread is taken out of the model with the help of baking paper and placed on a griddle to cool.",
+                        "order" : 9
+                    }
+        ]
+        }
+        ]
+      
+}
